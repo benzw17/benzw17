@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benzw17
-- 👀 I’m interested in (mobile) app development
-- 🌱 I’m currently learning Android Studio, Java, and I'm also considering React Native. 
+- 👀 I’m interested in (mobile) app development, AR, and VR. Mainly applications focused on health, productivity, sports, introspection, education.
+- 🌱 I’m currently learning Android Studio, Java, and Unity.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
